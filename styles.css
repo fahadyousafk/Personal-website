@@ -40,6 +40,10 @@ h3{
 }
 a{
     color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+    color: #8be1d1;
 }
 
 p{
